@@ -1,8 +1,14 @@
 body
 {
+<<<<<<< HEAD
     color: red;
     text-align: left;
     font-family: Arial;
+=======
+    color: #333;
+    text-align: left;
+    font-family: 'Arial';
+>>>>>>> 5535652d7ed40ad07082511a6e585736c48e14fa
 }
 #container
 {
